@@ -1,5 +1,5 @@
-Start Mysql on my local machine using: Sudo mysql
-List the databases i have using: Show databases
+* Start Mysql on my local machine using: Sudo mysql
+* List the databases i have using: Show databases
 ->;
 
 create a new dabase using: create a new database `< name of database>`
